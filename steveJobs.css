@@ -1,0 +1,59 @@
+html, body {
+	text-align: center;
+	min-width: 300px;
+	background-color: white;
+	font-family: 'Roboto Slab', serif;
+	color: #343434;
+}
+
+#title {
+	font-weight: 800;
+	font-size: 80px;
+}
+
+#sub-heading {
+	font-size: 20px;
+}
+
+img {
+	width: 50%;
+	height: 50%;
+	margin-top: 30px;
+}
+
+#img-caption {
+	font-size: 10px;
+}
+
+#tribute-info {
+	background: linear-gradient(white, #A9A9A9);
+	border: 5px;
+	border-radius: 20px;
+}
+
+ul{
+  max-width:850px;
+  margin:20px auto;
+  text-align:left;
+  margin-top: 50px;
+}
+
+li{
+  margin: 10px;
+}
+
+blockquote {
+	font-family: 'Cinzel', serif;
+	font-size: 90px;
+	text-align: center;
+	margin: 10% auto;
+}
+
+#saidBy {
+	font-size: 20px;
+}
+
+hr {
+	color: black;
+	size: 10;
+}
